@@ -28,7 +28,6 @@ int main(){
 		}
 		lineCounter++;
 	}
-	return 0;
 }
 
 void delay_ms(int delay_time){
