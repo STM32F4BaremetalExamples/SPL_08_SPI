@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'SPL_04_UART_STM32F4' 
+ * Project: 'SPL_08_SPI_STM32F4' 
  * Target:  'Target 1' 
  */
 
