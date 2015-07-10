@@ -9,7 +9,7 @@
       </df>
     </df>
     <logicalFolder name="SPL_04_UART"
-                   displayName="SPL_04_UART"
+                   displayName="SPL_08_SPI"
                    projectFiles="true"
                    root="..">
       <logicalFolder name="retarget" displayName="retarget" projectFiles="true">
@@ -112,258 +112,182 @@
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_adc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_can.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_crc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp_aes.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp_des.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_cryp_tdes.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dac.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dbgmcu.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dcmi.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma2d.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_exti.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash_ramfunc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_hash.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_hash_md5.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_hash_sha1.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_i2c.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_iwdg.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_ltdc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_pwr.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rng.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rtc.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_sai.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_sdio.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_syscfg.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_tim.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_usart.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../STM32F4xx_StdPeriph_Driver/src/stm32f4xx_wwdg.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../retarget/source/retarget_stm32f4.c"
             ex="false"
             tool="0"
             flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../retarget/source/serial_stdio.c" ex="false" tool="0" flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="../source/main.c" ex="false" tool="0" flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
       <item path="device/source/system_stm32f4xx.c" ex="false" tool="0" flavor2="3">
-        <cTool flags="0">
-        </cTool>
       </item>
     </conf>
   </confs>
